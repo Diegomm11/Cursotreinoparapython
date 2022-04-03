@@ -1,0 +1,15 @@
+nome=input('Qual o seu nome? ' )
+
+print ('Olá ', nome, ' tudo bem? ')
+
+print ('Meu nome é Diego Moura, sou um futuro programador e estou realizando testes no Python. ')
+
+print ('Responda algumas perguntas simples para que possamos treinar. ')
+
+print ('Me informe a data do seu nascimento.')
+
+Dia= input ('Dia= ')
+Mes= input ('Mês= ')
+Ano= input ('Ano= ')
+
+print (' Você nasceu no dia ', Dia, ' de ', Mes, ' de ', Ano)

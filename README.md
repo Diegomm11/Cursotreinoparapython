@@ -1,2 +1,3 @@
 # Cursotreinoparapython
- Praticas realizadas no Curso em Vídeo do professor Gustavo Guanabara.
+Olá, esse repositório é referente as praticas realizadas no Curso em Vídeo do professor Gustavo Guanabara.
+
