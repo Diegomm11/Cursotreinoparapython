@@ -1,0 +1,20 @@
+print: utilizado para colocar a escrita, assim como no visualg, deve estar entre (‘’), nesse caso podem ser apenas uma ‘ de cada lado da frase.
+
+Se for uma mensagem devo usar as aspas caso seja apenas uma soma por exemplo não deve usar as aspas.
+
+input: para que possa colocar algo dinâmico durante o programa, como o leia no visualg.
+
+DEVO USAR SEMPRE PALAVRAS MINUSCULAS
+
+Toda variável é um objeto par ao python
+
+TIPOS PRIMITIVOS
+int: numero inteiro, usado para poder fazer soma. Ex.: 7, -4, 0, 9875.
+float: numero real, quando tem virgulas, Ex.: 4.5, 0.076, -15.223, 7.0
+bool: TRUE ou FALSE, são para dizer se é verdadeiro ou falso
+str: são palavras que estão entre aspas.
+
+Tem um outro formato para escrever o PRINT.
+Ex.: print(‘Asoma vale {}’.format(s))
+
+Type: colocado print(type(o que desejo selecionar)) que irá dizer qual o tipo de algoritmo como bool, float...
